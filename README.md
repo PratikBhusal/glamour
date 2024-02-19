@@ -2,9 +2,9 @@
 
 <p>
     <img src="https://stuff.charm.sh/glamour/glamour-github-header.png" width="245" alt="Glamour Title Treatment"><br>
-    <a href="https://github.com/charmbracelet/glamour/releases"><img src="https://img.shields.io/github/release/charmbracelet/glamour.svg" alt="Latest Release"></a>
-    <a href="https://pkg.go.dev/github.com/charmbracelet/glamour?tab=doc"><img src="https://godoc.org/github.com/golang/gddo?status.svg" alt="GoDoc"></a>
-    <a href="https://github.com/charmbracelet/glamour/actions"><img src="https://github.com/charmbracelet/glamour/workflows/build/badge.svg" alt="Build Status"></a>
+    <a href="https://github.com/PratikBhusal/glamour/releases"><img src="https://img.shields.io/github/release/charmbracelet/glamour.svg" alt="Latest Release"></a>
+    <a href="https://pkg.go.dev/github.com/PratikBhusal/glamour?tab=doc"><img src="https://godoc.org/github.com/golang/gddo?status.svg" alt="GoDoc"></a>
+    <a href="https://github.com/PratikBhusal/glamour/actions"><img src="https://github.com/PratikBhusal/glamour/workflows/build/badge.svg" alt="Build Status"></a>
     <a href="https://coveralls.io/github/charmbracelet/glamour?branch=master"><img src="https://coveralls.io/repos/github/charmbracelet/glamour/badge.svg?branch=master" alt="Coverage Status"></a>
     <a href="https://goreportcard.com/report/charmbracelet/glamour"><img src="https://goreportcard.com/badge/charmbracelet/glamour" alt="Go ReportCard"></a>
 </p>
@@ -21,12 +21,12 @@ the stylish defaults.
 ## Usage
 
 ```go
-import "github.com/charmbracelet/glamour"
+import "github.com/PratikBhusal/glamour"
 
 in := `# Hello World
 
 This is a simple example of Markdown rendering with Glamour!
-Check out the [other examples](https://github.com/charmbracelet/glamour/tree/master/examples) too.
+Check out the [other examples](https://github.com/PratikBhusal/glamour/tree/master/examples) too.
 
 Bye!
 `
@@ -35,12 +35,12 @@ out, err := glamour.Render(in, "dark")
 fmt.Print(out)
 ```
 
-<img src="https://github.com/charmbracelet/glamour/raw/master/examples/helloworld/helloworld.png" width="600" alt="Hello World example">
+<img src="https://github.com/PratikBhusal/glamour/raw/master/examples/helloworld/helloworld.png" width="600" alt="Hello World example">
 
 ### Custom Renderer
 
 ```go
-import "github.com/charmbracelet/glamour"
+import "github.com/PratikBhusal/glamour"
 
 r, _ := glamour.NewTermRenderer(
     // detect background color and pick either the default dark or light theme
@@ -55,8 +55,8 @@ fmt.Print(out)
 
 ## Styles
 
-You can find all available default styles in our [gallery](https://github.com/charmbracelet/glamour/tree/master/styles/gallery).
-Want to create your own style? [Learn how!](https://github.com/charmbracelet/glamour/tree/master/styles)
+You can find all available default styles in our [gallery](https://github.com/PratikBhusal/glamour/tree/master/styles/gallery).
+Want to create your own style? [Learn how!](https://github.com/PratikBhusal/glamour/tree/master/styles)
 
 There are a few options for using a custom style:
 1. Call `glamour.Render(inputText, "desiredStyle")`
@@ -83,7 +83,7 @@ We’d love to hear your thoughts on this project. Feel free to drop us a note!
 
 ## License
 
-[MIT](https://github.com/charmbracelet/glamour/raw/master/LICENSE)
+[MIT](https://github.com/PratikBhusal/glamour/raw/master/LICENSE)
 
 ***
 

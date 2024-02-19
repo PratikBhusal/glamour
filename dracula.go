@@ -1,6 +1,6 @@
 package glamour
 
-import "github.com/charmbracelet/glamour/ansi"
+import "github.com/PratikBhusal/glamour/ansi"
 
 var DraculaStyleConfig = ansi.StyleConfig{
 	Document: ansi.StyleBlock{

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/charmbracelet/glamour"
+	"github.com/PratikBhusal/glamour"
 )
 
 func main() {

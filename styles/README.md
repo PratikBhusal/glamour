@@ -123,7 +123,7 @@ Style:
 
 Output:
 
-![Heading Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/heading.png)
+![Heading Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/heading.png)
 
 ---
 
@@ -145,7 +145,7 @@ Style:
 
 Output:
 
-![Block Quote Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/block_quote.png)
+![Block Quote Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/block_quote.png)
 
 ---
 
@@ -194,7 +194,7 @@ Style:
 
 Output:
 
-![Code Block Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/code_block.png)
+![Code Block Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/code_block.png)
 
 ---
 
@@ -223,7 +223,7 @@ Style:
 
 Output:
 
-![Table Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/table.png)
+![Table Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/table.png)
 
 ## Inline Elements
 
@@ -289,7 +289,7 @@ Style:
 
 Output:
 
-![List Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/list.png)
+![List Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/list.png)
 
 ---
 
@@ -316,7 +316,7 @@ Style:
 
 Output:
 
-![Enumeration Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/enumeration.png)
+![Enumeration Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/enumeration.png)
 
 ---
 
@@ -349,7 +349,7 @@ Style:
 
 Output:
 
-![Task Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/task.png)
+![Task Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/task.png)
 
 ---
 
@@ -378,7 +378,7 @@ Style:
 
 Output:
 
-![Link Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/link.png)
+![Link Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/link.png)
 
 ---
 
@@ -423,7 +423,7 @@ Style:
 
 Output:
 
-![Image Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/image.png)
+![Image Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/image.png)
 
 ---
 
@@ -459,7 +459,7 @@ Style:
 
 Output:
 
-![Code Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/code.png)
+![Code Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/code.png)
 
 ---
 
@@ -485,7 +485,7 @@ Style:
 
 Output:
 
-![Emph Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/emph.png)
+![Emph Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/emph.png)
 
 ---
 
@@ -511,7 +511,7 @@ Style:
 
 Output:
 
-![Strong Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/strong.png)
+![Strong Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/strong.png)
 
 ---
 
@@ -537,7 +537,7 @@ Style:
 
 Output:
 
-![Strikethrough Example](https://github.com/charmbracelet/glamour/raw/master/styles/examples/strikethrough.png)
+![Strikethrough Example](https://github.com/PratikBhusal/glamour/raw/master/styles/examples/strikethrough.png)
 
 ---
 
